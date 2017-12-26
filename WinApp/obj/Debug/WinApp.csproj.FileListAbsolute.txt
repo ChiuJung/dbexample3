@@ -1,0 +1,17 @@
+D:\tutorial\WinApp\WinApp\bin\Debug\WinApp.exe.config
+D:\tutorial\WinApp\WinApp\bin\Debug\WinApp.exe
+D:\tutorial\WinApp\WinApp\bin\Debug\WinApp.pdb
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.csprojResolveAssemblyReference.cache
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.fm.resources
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.exe
+D:\tutorial\WinApp\WinApp\obj\Debug\WinApp.pdb
+D:\tutorial\WinApp\WinApp\bin\Debug\ActivitySystemEntity.dll
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\bin\Debug\WinApp.exe.config
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.exe
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.pdb
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.csprojResolveAssemblyReference.cache
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.fm.resources
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+D:\TUTTutorial\02-DB\data\example3\WinApp\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
